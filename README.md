@@ -1,2 +1,1 @@
-# turu
-TEST
+# RTX 4030
